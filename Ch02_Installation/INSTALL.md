@@ -4,7 +4,7 @@
 To get you up and running with hands-on experiences, we'll need you to set up with a Python environment, Jupyter's interactive notebooks, the relevant libraries, and the code needed to *run the book*.
 
 ## Obtaining Source Codes
-
+changes
 The source code package containing all notebooks is available at https://github.com/dsgiitr/d2l-pytorch.git. Please clone it into your working folder.
 
 ```
