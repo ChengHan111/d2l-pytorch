@@ -21,8 +21,8 @@ Note: Some ipynb notebooks may not be rendered perfectly in Github. We suggest `
 
   * **Ch04 The Preliminaries: A Crashcourse**
     * 4.1 [Data Manipulation](https://github.com/ChengHan111/d2l-pytorch/blob/master/Ch04_The_Preliminaries_A_Crashcourse/Data_Manipulation.ipynb)
-    * 4.2 [Linear Algebra](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch04_The_Preliminaries_A_Crashcourse/Linear_Algebra.ipynb)
-    * 4.3 [Automatic Differentiation](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch04_The_Preliminaries_A_Crashcourse/Automatic_Differentiation.ipynb)
+    * 4.2 [Linear Algebra](https://github.com/ChengHan111/d2l-pytorch/blob/master/Ch04_The_Preliminaries_A_Crashcourse/Linear_Algebra.ipynb)
+    * 4.3 [Automatic Differentiation](https://github.com/ChengHan111/d2l-pytorch/blob/master/Ch04_The_Preliminaries_A_Crashcourse/Automatic_Differentiation.ipynb)
     * 4.4 [Probability and Statistics](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch04_The_Preliminaries_A_Crashcourse/Probability_and_Statistics.ipynb)
     * 4.5 [Naive Bayes Classification](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch04_The_Preliminaries_A_Crashcourse/Naive_Bayes_Classification.ipynb)
     * 4.6 [Documentation](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch04_The_Preliminaries_A_Crashcourse/Documentation.ipynb)
