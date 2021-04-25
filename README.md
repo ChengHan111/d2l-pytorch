@@ -32,7 +32,7 @@ Note: Some ipynb notebooks may not be rendered perfectly in Github. We suggest `
   * **Ch05 Linear Neural Networks**
     * 5.1 [Linear Regression](https://github.com/ChengHan111/d2l-pytorch/blob/master/Ch05_Linear_Neural_Networks/Linear_Regression.ipynb)
     * 5.2 [Linear Regression Implementation from Scratch](https://github.com/ChengHan111/d2l-pytorch/blob/master/Ch05_Linear_Neural_Networks/Linear_Regression_Implementation_from_Scratch.ipynb)
-    * 5.3 [Concise Implementation of Linear Regression](https://github.com/ChengHan111/d2l-pytorch/blob/master/Ch05_Linear_Neural_Networks/Concise_Implementation_of_Linear_Regression.ipynb)
+    * 5.3 [Concise Implementation of Linear Regression 重要](https://github.com/ChengHan111/d2l-pytorch/blob/master/Ch05_Linear_Neural_Networks/Concise_Implementation_of_Linear_Regression.ipynb)
     * 5.4 [Softmax Regression](https://github.com/ChengHan111/d2l-pytorch/blob/master/Ch05_Linear_Neural_Networks/Softmax_Regression.ipynb)
     * 5.5 [Image Classification Data (Fashion-MNIST)](https://github.com/ChengHan111/d2l-pytorch/blob/master/Ch05_Linear_Neural_Networks/Image_Classification_Data(Fashion-MNIST).ipynb)
     * 5.6 [Implementation of Softmax Regression from Scratch](https://github.com/ChengHan111/d2l-pytorch/blob/master/Ch05_Linear_Neural_Networks/Implementation_of_Softmax_Regression_from_Scratch.ipynb)
