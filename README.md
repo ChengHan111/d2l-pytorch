@@ -26,7 +26,7 @@ Note: Some ipynb notebooks may not be rendered perfectly in Github. We suggest `
     * 4.2 [Linear Algebra](https://github.com/ChengHan111/d2l-pytorch/blob/master/Ch04_The_Preliminaries_A_Crashcourse/Linear_Algebra.ipynb)
     * 4.3 [Automatic Differentiation 自动微分](https://github.com/ChengHan111/d2l-pytorch/blob/master/Ch04_The_Preliminaries_A_Crashcourse/Automatic_Differentiation.ipynb)
     * 4.4 [Probability and Statistics](https://github.com/ChengHan111/d2l-pytorch/blob/master/Ch04_The_Preliminaries_A_Crashcourse/Probability_and_Statistics.ipynb)
-    * 4.5 [Naive Bayes Classification MNIST dataset implementation 重要](https://github.com/ChengHan111/d2l-pytorch/blob/master/Ch04_The_Preliminaries_A_Crashcourse/Naive_Bayes_Classification.ipynb)
+    * 4.5 [Naive Bayes Classification MNIST dataset implementation 重要](https://github.com/ChengHan111/d2l-pytorch/blob/master/Ch04_The_Preliminaries_A_Crashcourse/Naive_Bayes_Classification%20%E5%8A%A0%E5%85%A5%E4%BA%86MNIST%20dataset%20implementation.ipynb)
     * 4.6 [Documentation](https://github.com/ChengHan111/d2l-pytorch/blob/master/Ch04_The_Preliminaries_A_Crashcourse/Documentation.ipynb)
     
   * **Ch05 Linear Neural Networks**
